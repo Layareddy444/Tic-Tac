@@ -154,7 +154,7 @@ box_array.map((e)=>{
         </div>
       </div>
 
-      <button className="reset" onClick={initial}>Reset</button>
+      <button className="reset" onClick={initial}>Reset </button>
     </div>
   );
 };
